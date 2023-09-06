@@ -205,7 +205,7 @@ nav.color {
   font-size: 1.1em;
 }
 
-.link {
+.link, .lk {
   display: flex;
   align-items: center;
   overflow: hidden;
@@ -213,6 +213,10 @@ nav.color {
   color: #fff;
   padding: 7px 25px;
   transition: 0.2s;
+}
+
+.lk {
+  font-size: 1.4em;
 }
 
 .link.active {
