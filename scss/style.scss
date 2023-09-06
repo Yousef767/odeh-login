@@ -1620,6 +1620,9 @@ form {
     width: 100%;
     padding: 30px 20px;
   }
+  .bac{
+    width: calc(100% - 40px);
+  }
 }
 
 .dataRow {
